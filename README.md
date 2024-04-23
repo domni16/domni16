@@ -2,8 +2,8 @@
 
 <a href="https://github.com/domni16">
 <div>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=domni16&show_icons=true&theme=radical&count_private=true&include_all_commits=true"> 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domni16&layout=compact&langs_count=16&theme=radical"> 
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=domni16&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"> 
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domni16&layout=compact&langs_count=16&theme=gotham"> 
 </div>
 
 <div>
